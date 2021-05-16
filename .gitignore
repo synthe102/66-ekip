@@ -1,6 +1,8 @@
-*.sch-bak
-*.kicad_pcb-bak
-*.dwg
-*.dwl
-*.dwl2
-*.zip
+**.sch-bak
+**.kicad_pcb-bak
+**.dwg
+**.dwl
+**.dwl2
+**.zip
+**/fp-info-cache
+**/*-lib-table
